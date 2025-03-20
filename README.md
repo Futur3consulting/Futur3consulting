@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning how to code and develop my first web application
 <!--
 **Futur3consulting/Futur3consulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
